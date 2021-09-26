@@ -1,4 +1,12 @@
-### Hi there 👋
+
+# Hello there 👋
+
+I'm Arpan\
+I am a Full Stack developer with industry experience building websites and web applications.\
+I specialize in Python and have professional experience working with JavaScript and APIs.\
+I also have experience working with Django, Bootstrap, JQuery and React. Take a look at my work or get in touch!
+
+
 
 <!--
 **arpansharma0016/arpansharma0016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
