@@ -2,7 +2,7 @@
 # Hello there 👋
 
 I'm Arpan\
-I am a Full Stack developer with industry experience building websites and web applications.\
+I am a Full Stack Development Enthusiast with industry experience building websites and web applications.\
 I specialize in Python and have professional experience working with JavaScript and APIs.\
 I also have experience working with Django, Bootstrap, JQuery and React. Take a look at my work or get in touch!
 
